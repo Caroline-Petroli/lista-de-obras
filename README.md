@@ -48,7 +48,7 @@ lista-de-imagens2/
 ├── responsivo.css
 └── style.css
 
-## 💻 Como Visualizar Localmente
+💻 Como Visualizar Localmente
 
 1. Faça o download ou clone este repositório:
    ```bash
@@ -56,7 +56,7 @@ lista-de-imagens2/
 
 --------
 
-##🌍 Navegue até a pasta do projeto:
+🌍 Navegue até a pasta do projeto:
 
 - bash
 - Copiar
@@ -64,14 +64,14 @@ lista-de-imagens2/
 - cd lista-de-imagens2
 - Abra o arquivo index.html em seu navegador.
 
-##🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 ➤ HTML5
 ➤ CSS3
 ➤ Layout Responsivo
 
 Git (com repositório incluído)
 
-##📌 Melhorias Futuras (opcional)
+📌 Melhorias Futuras (opcional)
  Adicionar JavaScript para filtros ou categorias
 
  Inserir animações suaves com CSS

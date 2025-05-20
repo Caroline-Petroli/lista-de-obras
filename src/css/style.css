@@ -1,0 +1,37 @@
+html {
+    font-family: "Public Sans", sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 90%;
+    margin: 0 auto;
+    gap: 20px;
+    padding: 8px;
+
+    .obra {
+        position: relative;
+
+        .infos {
+            position: absolute;
+            color: white;
+            bottom: 2.5rem;
+            left: 1.25rem;
+
+            .nome-arte {
+                font-size: 1.875rem;
+                margin-bottom: 0.5rem;
+            }
+
+            .artista {
+                font-size: 1.063rem;
+                font-weight: 200;
+            }
+
+        }
+    }
+}
